@@ -18,3 +18,8 @@ section {
     transform: scale(1.03);
     filter: grayscale(0%);
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
